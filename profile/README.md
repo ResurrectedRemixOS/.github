@@ -47,6 +47,7 @@ brunch <device_codename>
 <a href="https://github.com/alphadroid-project"><img src="assets/chip-alphadroid.svg" alt="AlphaDroid"></a>
 <a href="https://github.com/AxionAOSP"><img src="assets/chip-axionaosp.svg" alt="AxionAOSP"></a>
 <a href="https://github.com/Evolution-X"><img src="assets/chip-evolution-x.svg" alt="Evolution X"></a>
+<a href="https://github.com/Lunaris-AOSP"><img src="assets/chip-lunarisaosp.svg" alt="LunarisAOSP"></a>
 <a href="https://github.com/omnirom"><img src="assets/chip-omnirom.svg" alt="OmniROM"></a>
 <a href="https://github.com/SlimRoms"><img src="assets/chip-slimroms.svg" alt="SlimRoms"></a>
 <a href="https://github.com/VoltageOS"><img src="assets/chip-voltageos.svg" alt="VoltageOS"></a>
