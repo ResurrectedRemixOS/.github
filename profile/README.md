@@ -22,10 +22,14 @@ Also inside: boot animations, charge reports, Clear Voice, Remix backup, OmniJaw
 
 <img src="assets/h-pulse.svg" width="100%" alt="02 · Pulse check: Devices">
 
+<!-- gen:devices -->
+
 | Device | Codename | Maintainer | Status | Help |
 |---|---|---|---|---|
-| OnePlus 13 | `dodge` | [osm1019](https://github.com/osm1019) | <img src="assets/alive.svg" alt="Alive"> | [Telegram](https://t.me/OP13CustomRoms/3) |
-| OnePlus 11 | `salami` | [osm1019](https://github.com/osm1019) | <img src="assets/alive.svg" alt="Alive"> | [Telegram](https://t.me/OnePlus11CustomRoms/7739) |
+| OnePlus 13 | `dodge` | [OscarM1019](https://github.com/osm1019) | <img src="assets/alive.svg" alt="Alive"> | [Telegram](https://t.me/OP13CustomRoms/3) |
+| OnePlus 11 | `salami` | [OscarM1019](https://github.com/osm1019) | <img src="assets/alive.svg" alt="Alive"> | [Telegram](https://t.me/OnePlus11CustomRoms/7739) |
+
+<!-- /gen:devices -->
 
 Device trees, kernels and blobs live in [ResurrectedRemix-Devices](https://github.com/ResurrectedRemix-Devices). Want to bring your phone back from the dead? Read the [requirements](https://github.com/ResurrectedRemix-Devices/official_devices) and apply.
 
