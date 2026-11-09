@@ -29,6 +29,7 @@ Also inside: boot animations, charge reports, Clear Voice, Remix backup, OmniJaw
 | OnePlus 13 | `dodge` | [OscarM1019](https://github.com/osm1019) | <img src="assets/alive.svg" alt="Alive"> | [Telegram](https://t.me/OP13CustomRoms/3) |
 | OnePlus 11 | `salami` | [OscarM1019](https://github.com/osm1019) | <img src="assets/alive.svg" alt="Alive"> | [Telegram](https://t.me/OnePlus11CustomRoms/7739) |
 | Pixel 9a | `tegu` | [OscarM1019](https://github.com/osm1019) | In bring-up |  |
+| OnePlus 15 | `infiniti` | [OscarM1019](https://github.com/osm1019) | In bring-up |  |
 
 <!-- /gen:devices -->
 
