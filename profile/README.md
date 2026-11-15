@@ -28,9 +28,9 @@ Also inside: boot animations, charge reports, Clear Voice, Remix backup, OmniJaw
 |---|---|---|---|---|
 | OnePlus 13 | `dodge` | [OscarM1019](https://github.com/osm1019) | <img src="assets/alive.svg" alt="Alive"> | [Telegram](https://t.me/OP13CustomRoms/3) |
 | OnePlus 11 | `salami` | [OscarM1019](https://github.com/osm1019) | <img src="assets/alive.svg" alt="Alive"> | [Telegram](https://t.me/OnePlus11CustomRoms/7739) |
-| POCO F8 Ultra / Redmi K90 Pro Max | `myron` | [Kill3rEz](https://github.com/Kill3rEz) | <img src="assets/alive.svg" alt="Alive"> |  |
+| POCO F8 Ultra / Redmi K90 Pro Max | `myron` | [Kill3rEz](https://github.com/Kill3rEz) | <img src="assets/alive.svg" alt="Alive"> | [Telegram](https://t.me/rr_myron) |
 | Pixel 9a | `tegu` | [OscarM1019](https://github.com/osm1019) | <img src="assets/alive.svg" alt="Alive"> |  |
-| OnePlus 15 | `infiniti` | [OscarM1019](https://github.com/osm1019) | <img src="assets/alive.svg" alt="Alive"> | [Telegram](https://t.me/+qLz0jQ_ERZRlM2Ux) |
+| OnePlus 15 | `infiniti` | [OscarM1019](https://github.com/osm1019) | <img src="assets/alive.svg" alt="Alive"> | [Telegram](https://t.me/RROP15) |
 
 <!-- /gen:devices -->
 
