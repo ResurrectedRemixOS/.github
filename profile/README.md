@@ -30,7 +30,7 @@ Also inside: boot animations, charge reports, Clear Voice, Remix backup, OmniJaw
 | OnePlus 11 | `salami` | [OscarM1019](https://github.com/osm1019) | <img src="assets/alive.svg" alt="Alive"> | [Telegram](https://t.me/OnePlus11CustomRoms/7739) |
 | POCO F8 Ultra / Redmi K90 Pro Max | `myron` | [Kill3rEz](https://github.com/Kill3rEz) | <img src="assets/alive.svg" alt="Alive"> |  |
 | Pixel 9a | `tegu` | [OscarM1019](https://github.com/osm1019) | <img src="assets/alive.svg" alt="Alive"> |  |
-| OnePlus 15 | `infiniti` | [OscarM1019](https://github.com/osm1019) | <img src="assets/alive.svg" alt="Alive"> |  |
+| OnePlus 15 | `infiniti` | [OscarM1019](https://github.com/osm1019) | <img src="assets/alive.svg" alt="Alive"> | [Telegram](https://t.me/+qLz0jQ_ERZRlM2Ux) |
 
 <!-- /gen:devices -->
 
