@@ -32,8 +32,8 @@ Also inside: Game Space, Haptic Remix, Nightstand, edge lighting, big folders an
 | POCO F8 Ultra / Redmi K90 Pro Max | `myron` | [Kill3rEz](https://github.com/Kill3rEz) | <img src="assets/alive.svg" alt="Alive"> | [Telegram](https://t.me/rr_myron) |
 | Pixel 9a | `tegu` | [OscarM1019](https://github.com/osm1019) | <img src="assets/alive.svg" alt="Alive"> |  |
 | OnePlus 15 | `infiniti` | [OscarM1019](https://github.com/osm1019) | <img src="assets/alive.svg" alt="Alive"> | [Telegram](https://t.me/RROP15) |
-| OnePlus 13R | `giulia` | [franlop77](https://github.com/chuspita) | <img src="assets/alive.svg" alt="Alive"> |  |
-| OnePlus Ace 5 | `giuliac` | [franlop77](https://github.com/chuspita) | <img src="assets/alive.svg" alt="Alive"> |  |
+| OnePlus 13R | `giulia` | [franlop77](https://github.com/chuspita) | <img src="assets/alive.svg" alt="Alive"> | [Telegram](https://t.me/franlop77_roms) |
+| OnePlus Ace 5 | `giuliac` | [franlop77](https://github.com/chuspita) | <img src="assets/alive.svg" alt="Alive"> | [Telegram](https://t.me/franlop77_roms) |
 
 <!-- /gen:devices -->
 
