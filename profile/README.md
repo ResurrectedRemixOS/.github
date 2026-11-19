@@ -35,7 +35,7 @@ Also inside: Game Space, Haptic Remix, Nightstand, edge lighting, big folders an
 | OnePlus 13R | `giulia` | [franlop77](https://github.com/chuspita) | <img src="assets/alive.svg" alt="Alive"> | [Telegram](https://t.me/franlop77_roms) |
 | OnePlus Ace 5 | `giuliac` | [franlop77](https://github.com/chuspita) | <img src="assets/alive.svg" alt="Alive"> | [Telegram](https://t.me/franlop77_roms) |
 | Redmi Note 10 Pro | `sweet` | [stahed](https://github.com/sm6150-dreams) | <img src="assets/alive.svg" alt="Alive"> | [Telegram](https://t.me/RedmiNote10ProCHAT) |
-| POCO F7 | `onyx` | [jonhlcsgm](https://github.com/jonhlcsgm) | <img src="assets/alive.svg" alt="Alive"> |  |
+| POCO F7 | `onyx` | [jonhlcsgm](https://github.com/jonhlcsgm) | <img src="assets/alive.svg" alt="Alive"> | [Telegram](https://t.me/onyxmodding) |
 
 <!-- /gen:devices -->
 
