@@ -2,7 +2,7 @@
 
 <img src="assets/banner.svg" width="100%" alt="Resurrected Remix: back from the dead.">
 
-<img src="assets/badges.svg" alt="Android 17, LineageOS 24, branch rr-17.0, 7 devices">
+<img src="assets/badges.svg" alt="Android 17, LineageOS 24, branch rr-17.0, 9 devices">
 
 The ROM that defined customization is back. Rebuilt on LineageOS 24 with **Remixer** at its heart, plus the best ideas from the ROMs we love, made to feel like RR.
 
@@ -34,6 +34,8 @@ Also inside: Game Space, Haptic Remix, Nightstand, edge lighting, big folders an
 | OnePlus 15 | `infiniti` | [OscarM1019](https://github.com/osm1019) | <img src="assets/alive.svg" alt="Alive"> | [Telegram](https://t.me/RROP15) |
 | OnePlus 13R | `giulia` | [franlop77](https://github.com/chuspita) | <img src="assets/alive.svg" alt="Alive"> | [Telegram](https://t.me/franlop77_roms) |
 | OnePlus Ace 5 | `giuliac` | [franlop77](https://github.com/chuspita) | <img src="assets/alive.svg" alt="Alive"> | [Telegram](https://t.me/franlop77_roms) |
+| Redmi Note 10 Pro | `sweet` | [stahed](https://github.com/sm6150-dreams) | <img src="assets/alive.svg" alt="Alive"> | [Telegram](https://t.me/RedmiNote10ProCHAT) |
+| POCO F7 | `onyx` | [jonhlcsgm](https://github.com/jonhlcsgm) | <img src="assets/alive.svg" alt="Alive"> |  |
 
 <!-- /gen:devices -->
 
