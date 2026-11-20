@@ -7,7 +7,7 @@
 The ROM that defined customization is back. Rebuilt on LineageOS 24 with **Remixer** at its heart, plus the best ideas from the ROMs we love, made to feel like RR.
 
 <a href="https://resurrectedremix.com/#devices"><img src="assets/btn-download.svg" alt="Download"></a>
-<a href="https://wiki.resurrectedremix.com/"><img src="assets/btn-wiki.svg" alt="Wiki"></a>
+<a href="https://resurrectedremix.com/wiki/"><img src="assets/btn-wiki.svg" alt="Wiki"></a>
 <a href="https://t.me/+qLz0jQ_ERZRlM2Ux"><img src="assets/btn-telegram.svg" alt="Telegram"></a>
 <a href="https://github.com/ResurrectedRemixOS/manifest"><img src="assets/btn-manifest.svg" alt="Manifest"></a>
 
